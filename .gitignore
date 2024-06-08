@@ -1,0 +1,11 @@
+modem.img
+system/system/euclid/my_heytap.img
+system/system/euclid/my_region.img
+system/system/euclid/my_stock.img
+system/system/euclid/my_preload.img
+system/system/system_ext/priv-app/SystemUI/SystemUI.apk
+system/system/system_ext/priv-app/Settings/Settings.apk
+system/system/apex/com.android.vndk.current.apex
+system/system/app/OppoCamera/OppoCamera.apk
+vendor/euclid/odm.img
+vendor/etc/camera/license.lic

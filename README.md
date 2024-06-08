@@ -1,0 +1,14 @@
+# qssi-user 11 RKQ1.201217.002 1623376276806 release-keys
+- manufacturer: qualcomm
+- platform: sdm710
+- codename: sdm710
+- flavor: qssi-user
+- release: 11
+- id: RKQ1.201217.002
+- incremental: 1623376276806
+- tags: release-keys
+- fingerprint: qti/sdm710/sdm710:11/RKQ1.201217.002/1623376276806:user/release-keys
+- is_ab: false
+- brand: qti
+- branch: qssi-user-11-RKQ1.201217.002-1623376276806-release-keys
+- repo: qti_sdm710_dump
